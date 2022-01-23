@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Wow!
-<img align="right" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fentaniao&layout=compact">
-
-
-
 <img align="right" width="480px" src="https://github-readme-stats-one-bice.vercel.app/api?username=Fentaniao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 
 ### Languages I use
@@ -17,12 +12,16 @@ Wow!
   <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-9f62a5?style=flat&logo=cplusplus&logoColor=white" />
       <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-00ADD8?style=flat&logo=matrix&logoColor=white" />
-      <img alt="LaTeX" src="https://img.shields.io/badge/-LaTex-3D6117?style=flat&logo=latex&logoColor=white" />
+	</p>
+	
+<p>
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTex-3D6117?style=flat&logo=latex&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-4fc08d?style=flat&logo=markdown&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e2470f?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1b73ba?style=flat&logo=css3&logoColor=white" />
 </p>
 
+<img align="right" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fentaniao&layout=compact">
 
 ### Tools
 
