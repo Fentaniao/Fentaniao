@@ -7,7 +7,7 @@
 <p>
   <img alt="Starts" src="https://github-readme-stats-one-bice.vercel.app/api?username=Fentaniao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" />
 </p>
-	
+
 ### Languages
 
 <p>
@@ -31,15 +31,17 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
   <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-0078D7?style=flat&logo=adobe&logoColor=white" />
+    <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-0078D7?style=flat&logo=powerbi&logoColor=white" />
 </p>
 
 #### Platforms
 
 <p>
-	<img alt="Windows" src="https://img.shields.io/badge/-Windows_11-00ADD8?style=flat&logo=windows&logoColor=white" />
+    <img alt="Insider" src="https://img.shields.io/badge/-Windows_Insider-00ADD8?style=flat&logo=Microsoft&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-00ADD8?style=flat&logo=linux&logoColor=white" />
 	<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-00ADD8?style=flat&logo=Ubuntu&logoColor=white" />
-	<img alt="Insider" src="https://img.shields.io/badge/-Windows_Insider-00ADD8?style=flat&logo=Microsoft&logoColor=white" />
 </p>
+
 
 
 <!---
