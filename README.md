@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning developing WinUI3 software, visual identity...
 - 📫 Reach me though Github or fentaniao@gmail.com.
 
-![Fentaniao's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Fentaniao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER)
-
+<p>
+  <img alt="Starts" src="https://github-readme-stats-one-bice.vercel.app/api?username=Fentaniao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" />
+</p>
+	
 ### Languages
 
 <p>
