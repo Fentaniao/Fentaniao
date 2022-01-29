@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying on the Dynamics of Covid-19 though the differential equations.
 - 👀 I’m interested in coding, math, movies...
 - 🌱 I’m currently learning developing WinUI3 software, visual identity...
-- 📫 Reach me though Github or fentaniao@gmail.com.
+- 📫 Reach me through Github or fentaniao@gmail.com.
 
 <p>
   <img alt="Starts" src="https://github-readme-stats-one-bice.vercel.app/api?username=Fentaniao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" />
