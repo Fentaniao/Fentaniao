@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Fentaniao
-- 🔭 I’m currently studying on the Dynamics of Covid-19 though the differential equations.
-- 👀 I’m interested in coding, math, movies...
-- 🌱 I’m currently learning developing WinUI3 software, visual identity...
+- 👋 Hi, I'm @Fentaniao.
+- 🔭 I'm currently working on the Dynamics of Covid-19 though the differential equations.
+- 👀 I'm interested in coding, math, movies. I record my technical notes in my GitHub Page: https://fentaniao.github.io.
+- 🌱 I'm currently learning developing WinUI 3 software, inertial navigation...
 - 📫 Reach me through Github or fentaniao@gmail.com.
 
 <p>
@@ -34,15 +34,13 @@
     <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-0078D7?style=flat&logo=powerbi&logoColor=white" />
 </p>
 
-#### Platforms
+### Platforms
 
 <p>
     <img alt="Insider" src="https://img.shields.io/badge/-Windows_Insider-00ADD8?style=flat&logo=Microsoft&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-00ADD8?style=flat&logo=linux&logoColor=white" />
 	<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-00ADD8?style=flat&logo=Ubuntu&logoColor=white" />
 </p>
-
-
 
 <!---
 Click here to see my details.
