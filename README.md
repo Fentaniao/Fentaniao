@@ -2,7 +2,7 @@
 - 🔭 I'm currently working on the Dynamics of Covid-19 though the differential equations.
 - 👀 I'm interested in coding, math, movies. I record my technical notes in https://fentaniao.github.io.
 - 🌱 I'm currently learning developing WinUI 3 software, inertial navigation...
-- 📫 Reach me through Github or fentaniao@gmail.com.
+- 📫 Reach me through GitHub or fentaniao@gmail.com.
 
 <p>
   <img alt="Starts" src="https://github-readme-stats-one-bice.vercel.app/api?username=Fentaniao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" />
