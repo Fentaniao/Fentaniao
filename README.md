@@ -30,17 +30,17 @@
 <p>
   <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-E84D31?style=flat&logo=Git&logoColor=white" />
-  <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-FA0F00?style=flat&logo=adobe&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-ff9622?style=flat&logo=Git&logoColor=white" />
     <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-DC9D0F?style=flat&logo=powerbi&logoColor=white" />
+  <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-ff4200?style=flat&logo=adobe&logoColor=white" />
 </p>
 
 ### Platforms
 
 <p>
-    <img alt="Windows Insider" src="https://img.shields.io/badge/-Windows_Insider-00ADD8?style=flat&logo=Microsoft&logoColor=white" />
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-010605?style=flat&logo=linux&logoColor=white" />
-	<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
+    <img alt="Windows Insider" src="https://img.shields.io/badge/-Windows_Insider-31BBFF?style=flat&logo=Microsoft&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-00ADD8?style=flat&logo=linux&logoColor=white" />
+	<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-ff7923?style=flat&logo=Ubuntu&logoColor=white" />
 </p>
 
 <!---
