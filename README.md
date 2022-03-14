@@ -13,6 +13,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-9f62a5?style=flat&logo=cplusplus&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-00ADD8?style=flat&logo=matrix&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-PL/SQL-ff8f48?style=flat&logo=oracle&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTex-3D6117?style=flat&logo=latex&logoColor=white" />
@@ -40,7 +41,7 @@
 <p>
     <img alt="Windows Insider" src="https://img.shields.io/badge/-Windows_Insider-31BBFF?style=flat&logo=Microsoft&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-00ADD8?style=flat&logo=linux&logoColor=white" />
-	<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-ff7923?style=flat&logo=Ubuntu&logoColor=white" />
+	<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 </p>
 
 <!---
