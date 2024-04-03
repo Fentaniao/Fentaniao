@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm @Fentaniao.
 
-- 🔭 I am currently working on Quantumn Machine Learning.
+- 🔭 I'm currently working on Quantumn Machine Learning.
 - 🎉 I worked on Biomathematics, such the dynamics of HIV and COVID-19 though modeling with Differential Equations.
 - 👀 I'm passionate about coding, Physics, and Mathematics. I record my notes in https://fentaniao.github.io.
 - 🌱 I'm currently diving deeper into Machine Learning and Quantumn Physics.
