@@ -1,9 +1,10 @@
 ### 👋 Hi, I'm @Fentaniao.
 
-- 🔭 I'm currently working on the dynamics of COVID-19 though the differential equations.
-- 👀 I'm interested in coding, math and movies. I record my technical notes in https://fentaniao.github.io.
-- 🌱 I'm currently learning developing WinUI 3 App and machine learning...
-- 📫 Reach me through GitHub or fentaniao@gmail.com.
+- 🔭 I am currently working on Quantumn Machine Learning.
+- 🎉 I worked on Biomathematics, such the dynamics of HIV and COVID-19 though modeling with Differential Equations.
+- 👀 I'm passionate about coding, Physics, and Mathematics. I record my notes in https://fentaniao.github.io.
+- 🌱 I'm currently diving deeper into Machine Learning and Quantumn Physics.
+- 📫 Reach me at: GitHub or fentaniao@gmail.com.
 
 <p>
   <img alt="Starts" src="https://github-readme-stats-one-bice.vercel.app/api?username=Fentaniao&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER" />
